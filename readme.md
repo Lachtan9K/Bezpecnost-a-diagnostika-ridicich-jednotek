@@ -19,7 +19,7 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 
 Bezpečnost a diagnostika řídících jednotek
 
-1. Bezpečnost (safety) řídících systémů
+1. Bezpečnost (safety) řídících systémů - Safety - Ochrana před urazem nebo před umrtim cloveka
 2. Zabezpečení (security) řídících systémů
 3. Příklady HW a SW diagnostických prostředků
 4. Ukázka základní diagnostiky vybraných řídících jednotek
